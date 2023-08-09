@@ -1,0 +1,37 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+ 
+img { 
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+
+}
+  /* Style for the menu */
+  .menu {
+    background-color: #F5F5F4;
+    padding: 10px 0;
+  }
+  
+  /* Style for menu items */
+  .menu ul li {
+    display: inline-block;
+    margin: 0 15px;
+  }
+  
+  /* Style for menu item links */
+  .menu ul li a {
+    text-decoration: none;
+    color: #450f54;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  /* Change link color on hover */
+  .menu ul li a:hover {
+    color: #FFA500;
+  }
